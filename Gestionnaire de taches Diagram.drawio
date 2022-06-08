@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T09:01:30.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="FNvYk648MTdnxKYsnIIJ" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T09:02:23.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="104g9a0ewFve-lvl_ZSk" version="19.0.2" type="github">
   <diagram id="wpccjwFJa_wh-Vl-M0VJ" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4h-IRqhfVynDs1-3WfUB-5" value="Sélectionner un élève" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="280" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4h-IRqhfVynDs1-3WfUB-7" value="Supprimer une tâche" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4h-IRqhfVynDs1-3WfUB-13" value="Crèer une tâche pour un élève" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="470" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4h-IRqhfVynDs1-3WfUB-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="4h-IRqhfVynDs1-3WfUB-5" target="4h-IRqhfVynDs1-3WfUB-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -56,9 +56,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CoeBijFj5IWHk_6ko7a0-1" value="Supprimer une tâche" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
-          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CoeBijFj5IWHk_6ko7a0-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.567;exitY=1.033;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="4h-IRqhfVynDs1-3WfUB-13" target="CoeBijFj5IWHk_6ko7a0-1" edge="1">
+        <mxCell id="CoeBijFj5IWHk_6ko7a0-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4h-IRqhfVynDs1-3WfUB-13" target="CoeBijFj5IWHk_6ko7a0-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="515" y="565" as="sourcePoint" />
             <mxPoint x="605" y="515" as="targetPoint" />
